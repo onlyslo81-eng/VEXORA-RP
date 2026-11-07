@@ -1,2 +1,329 @@
-Commit Changes.
-.html.
+<!DOCTYPE html>
+
+<html lang="ar" dir="rtl">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>VEXORA RP | RULES</title>
+
+<style>
+
+* {
+
+box-sizing: border-box;
+
+}
+
+body {
+
+background: #090b10;
+
+color: white;
+
+font-family: Arial, sans-serif;
+
+margin: 0;
+
+padding: 20px;
+
+line-height: 1.9;
+
+}
+
+header {
+
+text-align: center;
+
+padding: 40px 15px;
+
+background: #171c27;
+
+border: 1px solid #30394a;
+
+border-radius: 18px;
+
+margin-bottom: 30px;
+
+}
+
+header h1 {
+
+font-size: 42px;
+
+letter-spacing: 4px;
+
+margin: 0;
+
+direction: ltr;
+
+}
+
+header p {
+
+color: #9bb7ff;
+
+}
+
+section {
+
+max-width: 850px;
+
+margin: 25px auto;
+
+}
+
+h2 {
+
+color: #9bb7ff;
+
+border-bottom: 1px solid #39445a;
+
+padding-bottom: 10px;
+
+}
+
+.rule {
+
+background: #171c27;
+
+border: 1px solid #30394a;
+
+border-radius: 12px;
+
+padding: 16px;
+
+margin: 12px 0;
+
+}
+
+.en {
+
+direction: ltr;
+
+text-align: left;
+
+color: #aab4c5;
+
+font-size: 14px;
+
+margin-top: 6px;
+
+}
+
+footer {
+
+text-align: center;
+
+color: #9bb7ff;
+
+margin-top: 40px;
+
+}
+
+</style>
+
+</head>
+
+<body>
+
+<header>
+
+<h1>VEXORA RP</h1>
+
+<p>SERVER RULES</p>
+
+<p>مرحباً بك في مدينة VEXORA RP</p>
+
+</header>
+
+<section>
+
+<h2>القوانين العامة | General Rules</h2>
+
+<div class="rule">
+
+1. احترام جميع اللاعبين والإدارة.
+
+<div class="en">Respect all players and staff members.</div>
+
+</div>
+
+<div class="rule">
+
+2. يمنع السب أو العنصرية أو الإساءة.
+
+<div class="en">Insults, racism and harassment are prohibited.</div>
+
+</div>
+
+<div class="rule">
+
+3. يمنع الغش واستغلال الثغرات.
+
+<div class="en">Cheating and exploiting bugs are prohibited.</div>
+
+</div>
+
+<div class="rule">
+
+4. الالتزام بتعليمات الإدارة.
+
+<div class="en">Follow staff instructions.</div>
+
+</div>
+
+</section>
+
+<section>
+
+<h2>قوانين الرول بلاي | Roleplay Rules</h2>
+
+<div class="rule">
+
+5. يمنع القتل العشوائي RDM دون سبب.
+
+<div class="en">Random Deathmatch without a valid RP reason is prohibited.</div>
+
+</div>
+
+<div class="rule">
+
+6. يمنع الدهس العشوائي VDM.
+
+<div class="en">Vehicle Deathmatch is prohibited.</div>
+
+</div>
+
+<div class="rule">
+
+7. يمنع استخدام معلومات خارج اللعبة Meta Gaming.
+
+<div class="en">Using out-of-character information in RP is prohibited.</div>
+
+</div>
+
+<div class="rule">
+
+8. يمنع فرض أفعال غير واقعية Power Gaming.
+
+<div class="en">Power Gaming is prohibited.</div>
+
+</div>
+
+<div class="rule">
+
+9. يجب الخوف على حياة شخصيتك Fear RP.
+
+<div class="en">Always value your character's life.</div>
+
+</div>
+
+<div class="rule">
+
+10. يمنع تخريب السيناريو أو الهروب منه.
+
+<div class="en">Do not disrupt or escape ongoing roleplay scenarios.</div>
+
+</div>
+
+<div class="rule">
+
+11. يمنع الخروج من السيرفر لتجنب العقوبات أو المواقف.
+
+<div class="en">Leaving the server to avoid consequences is prohibited.</div>
+
+</div>
+
+</section>
+
+<section>
+
+<h2>قوانين الإجرام | Criminal Rules</h2>
+
+<div class="rule">
+
+12. الالتزام بشروط السرقات المحددة.
+
+<div class="en">Follow all robbery requirements.</div>
+
+</div>
+
+<div class="rule">
+
+13. يمنع التعاون غير المسموح بين العصابات والشرطة.
+
+<div class="en">Unauthorized cooperation between gangs and police is prohibited.</div>
+
+</div>
+
+<div class="rule">
+
+14. يمنع استغلال الوظائف لتحقيق مصالح شخصية.
+
+<div class="en">Abusing job privileges for personal gain is prohibited.</div>
+
+</div>
+
+</section>
+
+<section>
+
+<h2>قوانين التواصل | Communication Rules</h2>
+
+<div class="rule">
+
+15. يمنع الإزعاج الصوتي.
+
+<div class="en">Voice chat disruption is prohibited.</div>
+
+</div>
+
+<div class="rule">
+
+16. يمنع نشر الإعلانات دون إذن الإدارة.
+
+<div class="en">Advertising without staff permission is prohibited.</div>
+
+</div>
+
+<div class="rule">
+
+17. يجب احترام جميع أعضاء الديسكورد.
+
+<div class="en">Respect all Discord members.</div>
+
+</div>
+
+</section>
+
+<section>
+
+<h2>العقوبات | Punishments</h2>
+
+<div class="rule">
+
+تختلف العقوبات حسب نوع المخالفة وتكرارها، وتشمل الإنذار أو التحذير أو الباند المؤقت أو النهائي.
+
+<div class="en">
+
+Punishments depend on the violation and its frequency. They may include warnings, temporary bans or permanent bans.
+
+</div>
+
+</div>
+
+</section>
+
+<footer>
+
+VEXORA RP © ALL RIGHTS RESERVED
+
+</footer>
+
+</body>
+
+</html>
